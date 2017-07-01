@@ -1,0 +1,34 @@
+h3 {
+	margin: 0;
+}
+#pageSubTitle {
+	color: #FFF;
+	font-size: 20px;
+}
+#pageTitle {
+	color: #FFF;
+	font-size: 30px;
+}
+#navHeader
+{
+	background-color: lightblue;
+	margin-bottom: 20px;
+	min-height: 50px;
+	position: relative
+	top: 0;
+}
+#savedSection .panel-body {
+    padding: 0;
+}
+#savedSection .savedArticle {
+	border-top: 0;
+	border-right: 1px;
+	border-bottom: 1px;
+	border-left: 1px;
+	border-color: white;
+	border-style: solid;
+	padding: 10px;
+}
+.titleNews {
+	min-height: 40px;
+}
